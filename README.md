@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Matt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I am a student at Northern Illinois University set to graduate in May 2021.
 
-<!--
-**mgedge/mgedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am aspiring to do software/android engineering and solve real world problems. I love to learn and challenge myself. I also love silly programming jokes like this: 
+> "!false" It's funny because it's true!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an Android Fitness App
+- 🌱 I’m currently learning Angular
+- 🧠 I want to learn python, AI/Machine Learning, and Docker
+- 📄 My [Resume](https://github.com/mgedge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+- ☕ Java 
+- 💻 C/C++
+- 📱  Android
+- 🗄 SQL
+- 🕸 HTML/CSS
+- 🐧 Linux
