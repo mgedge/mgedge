@@ -7,7 +7,7 @@ I am aspiring to do software/android engineering and solve real world problems. 
 - 🔭 I’m currently working on an Android Fitness App
 - 🌱 I’m currently learning Angular
 - 🧠 I want to learn python, AI/Machine Learning, and Docker
-- 📄 My [Resume](https://github.com/mgedge)
+- 📄 My [Resume](https://docs.google.com/document/d/1sXgypx3p23gqwSnaHgEbY9T6ZXMWgQWi4wqGmJPQZbc/edit?usp=sharing)
 
 ## Languages and Tools
 - ☕ Java 
