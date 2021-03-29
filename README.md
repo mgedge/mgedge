@@ -10,9 +10,11 @@ I am aspiring to do software/android engineering and solve real world problems. 
 - 📄 My [Resume](https://github.com/mgedge/mgedge/blob/main/MatthewGedgeResumeSE.pdf)
 
 ## Languages and Tools
+- ✔  Angular 11
+- 📊 GraphQL
 - ☕ Java 
 - 💻 C/C++
 - 📱  Android
-- 🗄 SQL
+- 🗄 SQL, MySQL, SQLite, MongoDB
 - 🕸 HTML/CSS
 - 🐧 Linux
